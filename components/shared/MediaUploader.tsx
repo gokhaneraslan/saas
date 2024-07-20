@@ -53,7 +53,7 @@ const MediaUploader = ({
 
   return (
     <CldUploadWidget
-      uploadPreset="jsm_imaginify"
+      uploadPreset="gkers_img_gen"
       options={{
         multiple: false,
         resourceType: "image",
